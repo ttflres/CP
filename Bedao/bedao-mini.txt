@@ -1,0 +1,7 @@
+M03:https://oj.vnoi.info/contest/bedao_m03
+M05:https://oj.vnoi.info/problem/bedao_m05_median
+M06:
+	https://oj.vnoi.info/problem/bedao_m06_internet
+	https://oj.vnoi.info/problem/bedao_m06_hard
+M19:https://oj.vnoi.info/problem/bedao_m19_military
+M16:https://oj.vnoi.info/problem/bedao_m16_number - sub 2
